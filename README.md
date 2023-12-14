@@ -10,8 +10,6 @@ This repository contains Python code utilizing PySpark and Databricks for compre
 
 ![Raw Data Screenshot](https://github.com/mohammadmubaslat/Sales-Data-Analysis-Pyspark-Databricks/blob/master/rawdata.png)
 
-_{Add a brief description or explanation of the raw data you're starting with before analysis.}_
-
 {Some Magic}
 
 ### After analysis:
