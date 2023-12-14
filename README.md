@@ -16,5 +16,5 @@ _{Add a brief description or explanation of the raw data you're starting with be
 
 ### After analysis:
 
-![Visualized Data Screenshot](visual.png)
+![Visualized Data Screenshot](https://github.com/mohammadmubaslat/Sales-Data-Analysis-Pyspark-Databricks/blob/master/visual.png)
 
