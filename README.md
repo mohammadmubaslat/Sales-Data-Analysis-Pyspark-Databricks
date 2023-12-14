@@ -1,17 +1,20 @@
 # Sales-Data-Analysis-Pyspark-Databricks
-Analyze and visualize sales data from two files using PySpark and Databricks, generating insightful visualizations for better understanding and decision-making.
 
+Analyzing and visualizing sales data from two files using PySpark and Databricks to generate insightful visualizations for better understanding and decision-making.
 
-Overview
-This repository contains Python code leveraging PySpark and Databricks to conduct comprehensive sales data analysis. The aim is to explore, process, and visualize data from two raw files, extracting valuable insights to aid in business decisions.
+## Overview
 
+This repository contains Python code utilizing PySpark and Databricks for comprehensive sales data analysis. The goal is to explore, process, and visualize data from two raw files, extracting valuable insights to assist in making informed business decisions.
 
-Before analysis:
-![Screenshot](rawdata.png)
+### Before analysis:
 
+![Raw Data Screenshot](rawdata.png)
+
+_{Add a brief description or explanation of the raw data you're starting with before analysis.}_
 
 {Some Magic}
 
+### After analysis:
 
-After analysis:
-![Screenshot](visual.png)
+![Visualized Data Screenshot](visual.png)
+
